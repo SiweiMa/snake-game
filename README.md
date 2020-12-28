@@ -21,13 +21,13 @@ For *slow reaction* level, the snake's reaction is always five steps slower. You
 
 For *confusion* level, all snake's response is opposite. The snake will go down when letting him go up. 
 
-![](img/level2.gif)
+<img src="img/level2.gif" alt="Confused snake" width="400"/>
 
-> Slow snake
+> Confused snake
 
 For *I'm fineeeeee* level, the snake sees hallucinations. There are five apples (or called snacks) in his eye but only one is real.
 
-![](img/level3.gif)
+<img src="img/level2.gif" alt="hallucinated snake" width="400"/>
 
 > Snake with hallucinations
 
