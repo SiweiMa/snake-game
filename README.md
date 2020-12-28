@@ -15,8 +15,7 @@ After running the main file, you will see the menu with three difficulties: *slo
 
 For *slow reaction* level, the snake's reaction is always five steps slower. You can modify `delay_countdown` in `game_level1.py` to change the reaction speed. To me, the snake game becomes a shooting game.
 
-
-![](img/level1.gif)
+<img src="img/level1.gif" alt="Slow snake" width="400"/>
 
 > Slow snake
 
