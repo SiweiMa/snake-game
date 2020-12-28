@@ -9,7 +9,7 @@ A classic snake game with extra difficulties. The snake is drunk with slow react
 
 After running the main file, you will see the menu with three difficulties: *slow reaction*, *confusion* and *I'm fineeeeee*. 
 
-![](./img/screenshot.png =100x)
+<img src="img/screenshot.png" alt="Menu" width="200"/>
 
 > Menu
 
