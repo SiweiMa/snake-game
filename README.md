@@ -4,7 +4,7 @@
 #### by [Siwei Ma](https://www.linkedin.com/in/siwei-ma-28345856/)
 
 
-# How it looks
+# How it looks like
 
 After running the main file, you will see the menu with three difficulties: *slow reaction*, *confusion* and *I'm fineeeeee*. 
 
