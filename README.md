@@ -29,5 +29,3 @@ In *I'm fineeeeee* level, the snake sees hallucinations. There are five apples (
 <img src="img/level3.gif" alt="hallucinated snake" width="400"/>
 
 > Snake with hallucinations
-
-# Thank you for playing!
