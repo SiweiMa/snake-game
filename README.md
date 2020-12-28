@@ -1,5 +1,5 @@
 # Drunk Snake
-* a simple snake game in python to practice object-oriented-programming
+*a simple snake game in python to practice object-oriented-programming*
 
 #### by [Siwei Ma](https://www.linkedin.com/in/siwei-ma-28345856/)
 
