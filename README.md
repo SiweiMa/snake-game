@@ -1,11 +1,8 @@
 # Drunk Snake
-*a simple snake game in python to practice object-oriented-programming*
+*a simple snake game in python to practice object-oriented-programming. But this snake is drunk with slow reaction, confused, and sometimes hallucinated :(*
 
 #### by [Siwei Ma](https://www.linkedin.com/in/siwei-ma-28345856/)
 
-
-
-A classic snake game with extra difficulties. The snake is drunk with slow reaction, confused, and sometimes hallucinated :(
 
 # How it looks
 
