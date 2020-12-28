@@ -9,26 +9,26 @@ A classic snake game with extra difficulties. The snake is drunk with slow react
 
 After running the main file, you will see the menu with three difficulties: *slow reaction*, *confusion* and *I'm fineeeeee*. 
 
-![](img/screenshot.png)
+![](img/screenshot.png =100x20)
 
 > Menu
 
 For *slow reaction* level, the snake's reaction is always five steps slower. You can modify `delay_countdown` in `game_level1.py` to change the reaction speed. To me, the snake game becomes a shooting game.
 
 
-![](img/level1.gif =100x20)
+![](img/level1.gif)
 
 > Slow snake
 
 For *confusion* level, all snake's response is opposite. The snake will go down when letting him go up. 
 
-![](img/level2.gif =100x20)
+![](img/level2.gif)
 
 > Slow snake
 
 For *I'm fineeeeee* level, the snake sees hallucinations. There are five apples (or called snacks) in his eye but only one is real.
 
-![](img/level3.gif =100x20)
+![](img/level3.gif)
 
 > Snake with hallucinations
 
