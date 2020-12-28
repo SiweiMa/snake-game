@@ -29,7 +29,7 @@ For *confusion* level, all snake's response is opposite. The snake will go down 
 
 For *I'm fineeeeee* level, the snake sees hallucinations. There are five apples (or called snacks) in his eye but only one is real.
 
-<img src="img/level2.gif" alt="hallucinated snake" width="400"/>
+<img src="img/level3.gif" alt="hallucinated snake" width="400"/>
 
 > Snake with hallucinations
 
