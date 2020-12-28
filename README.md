@@ -18,7 +18,7 @@ In *slow reaction* level, the snake's reaction is always five steps slower. You 
 
 > Slow snake
 
-In *confusion* level, all snake's response is opposite. The snake will go down when letting him go up. 
+In *confusion* level, all snake's response is opposite. The snake will go down when let him go up. 
 
 <img src="img/level2.gif" alt="Confused snake" width="400"/>
 
